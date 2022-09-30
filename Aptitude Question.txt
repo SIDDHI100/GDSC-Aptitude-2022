@@ -391,7 +391,7 @@ b.Jowar
 c.Mustard
 d.Wheat
 answer-Mustard
-Find the next number in the sequence.
+10Find the next number in the sequence.
 
 1 2 3 5 7 9 _
 
